@@ -39,4 +39,4 @@ document.querySelector(".searchBar").addEventListener("keyup" , function (event)
     }
 })
 
-weather.fetchWeather("Denver");
+weather.fetchWeather("Delhi");
